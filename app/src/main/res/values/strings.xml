@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="name">Name</string>
+    <string name="text">Text</string>
+    <string name="main_toolbar_title">Notes</string>
+    <string name="edit_note_toolbar_title">Edit note</string>
+    <string name="note">Note</string>
+    <string name="title">Title</string>
+    <string name="delete_item">delete_item</string>
+    <string name="setting_item">setting_item</string>
+    <string name="save_item">save_item</string>
+    <string name="setting_toolbar_title">Setting</string>
+    <string name="choose_text_size">Choose text size</string>
+    <string name="note_text_size">Note text size: %1$d</string>
+</resources>
